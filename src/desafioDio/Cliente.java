@@ -1,5 +1,5 @@
 package desafioDio;
 
-public class Cliente {
+public class Cliente  {
 
 }
